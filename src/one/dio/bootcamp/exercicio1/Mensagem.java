@@ -1,4 +1,4 @@
-package one.dio.bootcamp;
+package one.dio.bootcamp.exercicio1;
 
 public class Mensagem {
     public static void obterMensagem(int hora){
