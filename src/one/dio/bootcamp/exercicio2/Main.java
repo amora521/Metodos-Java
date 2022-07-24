@@ -2,7 +2,7 @@ package one.dio.bootcamp.exercicio2;
 
 import java.util.Scanner;
 
-public class Main2 {
+public class Main {
 
     public static void main2(String[] args){
 
