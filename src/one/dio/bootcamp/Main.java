@@ -29,7 +29,8 @@ public class Main {
         //Emprestimo
         System.out.println(" ");
         System.out.println("Exercício emprestimo:");
-
+        Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+        Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
 
     }
 }
